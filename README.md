@@ -1,7 +1,7 @@
 # 介绍
 java指南，在未来可预见的一段时间里面，我会对这个仓库进行不断完善，以便完善自己的开发知识体系。
 
-笔记采用wolai（我来）进行记录，可以点击 [这里](https://www.wolai.com/slen/9DRdEPDWuKbKtXDEWDskWs?theme=dark) 直接进行访问。
+笔记采用wolai（我来）进行记录，可以 [点击这里直接进行访问](https://www.wolai.com/slen/9DRdEPDWuKbKtXDEWDskWs?theme=dark) 。
 
 也可以下载本仓库后双击**Java Guide.html**文件，该文件是所有层级文件的主文件。
 
