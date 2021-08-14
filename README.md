@@ -3,6 +3,8 @@ java指南，在未来可预见的一段时间里面，我会对这个仓库进�
 
 建议下载本仓库后双击**Java Guide.html**文件，该文件是所有层级文件的主文件。
 
+笔记采用wolai（我来）进行记录，笔记我已分享，可以点击 [这里](https://www.wolai.com/slen/9DRdEPDWuKbKtXDEWDskWs?theme=dark) 进行查看。
+
 # 使用教程
 所有的笔记资料我已经导出为了HTML，只需要下载此仓库，然后双击**Java Guide.html**文件即可打开笔记。
 
