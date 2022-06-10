@@ -1,7 +1,7 @@
 # 介绍
 
-所有笔记在dev分支，使用wolai笔记进行记录。
+笔记采用wolai（我来）进行记录，可以 [点击这里直接访问](https://www.wolai.com/slen/9DRdEPDWuKbKtXDEWDskWs?theme=dark) 
 
-所有笔记在dev分支，使用wolai笔记进行记录。
+或者URL输入：https://www.wolai.com/slen/9DRdEPDWuKbKtXDEWDskWs?theme=dark
 
-所有笔记在dev分支，使用wolai笔记进行记录。
+
